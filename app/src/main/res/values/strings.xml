@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Rec_View</string>
+
+    <string-array name = "university">
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+        <item>IUCA</item>
+    </string-array>
+
+    <string-array name = "lastname">
+        <item>Tsakaev</item>
+        <item>Bekturganov</item>
+        <item>Abdraimova</item>
+        <item>Aidarov</item>
+        <item>Mambetaliev</item>
+        <item>Popov</item>
+        <item>Shibru</item>
+        <item>Burnashev</item>
+        <item>Lirov</item>
+    </string-array>
+
+    <string-array name = "firstname">
+    <item>Ahmad</item>
+    <item>Aidin</item>
+    <item>Aisuluu</item>
+    <item>Avai</item>
+    <item>Azamat</item>
+    <item>Danil</item>
+    <item>David</item>
+    <item>Veniamin</item>
+    <item>Zein</item>
+    </string-array>
+
+
+
+</resources>
